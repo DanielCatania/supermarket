@@ -1,0 +1,34 @@
+[
+  {
+    "id": "grehkx5m",
+    "name": "Abacate",
+    "value": 3.65,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_elXo_-p6-WCOR3wi4oJK2V68nZJLmgH8g&s",
+    "reviews": 2,
+    "stars": 4
+  },
+  {
+    "id": "5zz1abd1",
+    "name": "Melancia",
+    "value": 2.99,
+    "image": "https://i.pinimg.com/originals/f5/4a/3b/f54a3b357557684eba86bfde2623bfbb.jpg",
+    "reviews": 15,
+    "stars": 4
+  },
+  {
+    "id": "bi1efmi6",
+    "name": "Banana",
+    "value": 1.25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEiaF8j1UiC7ecHn_667S0nrQpA2Th7Jf5g&s",
+    "reviews": 82,
+    "stars": 5
+  },
+  {
+    "id": "i5k268ne",
+    "name": "Abacaxi",
+    "value": 5.99,
+    "image": "https://i.pinimg.com/originals/79/8b/76/798b76ddeb5b6d466d1bc96463aebaf7.webp",
+    "reviews": 3,
+    "stars": 3
+  }
+]
